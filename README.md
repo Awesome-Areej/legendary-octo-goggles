@@ -7,4 +7,5 @@ The first thing you must know about tacos is the taste of them. So go on and ord
 <p align="center">
 ![alt text](dancingTaco.gif "Preview")
 </p>
+
 ![alt text](pic1.png "Preview")
