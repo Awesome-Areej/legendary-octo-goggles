@@ -1,0 +1,62 @@
+h1 {
+  color: #DEB887;
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+
+h2 {
+  color: #4B0082;
+  font-family: Impact;
+  text-align: center;
+}
+
+h3 {
+  color: #008080;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  transform: scaleX();
+}
+p {
+  color: #66CDAA;
+  font-family: Verdana;
+  text-align: center;
+}
+
+.left {
+  display: block;
+  margin-left: 100;
+  margin-right: auto;
+  width: 100%;
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+h4 {
+  color: #008080;
+  font-family: impact;
+  text-align: left;
+  font-size: 30px;
+  float: left;
+}
+
+h5 {
+  color: #008080;
+  font-family: impact;
+  text-align: right;
+  font-size: 30px;
+}
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: 100;
+  width: 100%;
+  float: right;
+}
